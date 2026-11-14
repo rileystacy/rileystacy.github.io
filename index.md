@@ -16,4 +16,4 @@ research: |
 
 I'm a fourth-year undergraduate at Barnard College, finishing my B.A. in Computer Science, Mathematics, and Human Rights in December 2026. I'm grateful to work with Professor [Emily Black](https://emblack.github.io/) at NYU, where I study **algorithmic fairness and AI governance** from both technical and legal perspectives.
 
-Outside of research, I love running, reading, coffee, and collecting records.
+Outside of research, I love running, coffee, and collecting records.
