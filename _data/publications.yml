@@ -1,0 +1,30 @@
+# Publications, newest first. Copy a block to add one.
+# Your name (author.short_name in _config.yml) is bolded automatically.
+# Optional fields: badge (e.g. Oral, Spotlight), note (e.g. *Equal contribution), links,
+# image (a figure shown next to the paper; put it in assets/img/pubs/). Without an image,
+# a venue/year tile is shown instead.
+# Imported from Google Scholar / ACL Anthology / Semantic Scholar on 2026-11-13.
+
+- venue: EMNLP Findings
+  year: 2026
+  image: /assets/img/pubs/ai-reviewers.png
+  title: "Do AI Reviewers Converge? Diversity Collapse in Model-Generated Peer Review"
+  authors: Xuzhe Hou, Shengxin Zhang, Riley Stacy, Emily Black, Varun Chandrasekaran
+  where: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  links:
+    - name: Paper
+      url: https://aclanthology.org/2026.findings-emnlp.1035/
+    - name: PDF
+      url: https://aclanthology.org/2026.findings-emnlp.1035.pdf
+
+- venue: CSLaw
+  year: 2026
+  image: /assets/img/pubs/algorithmic-udap.png
+  title: Algorithmic UDAP
+  authors: Talia B. Gillis, Riley Stacy, Sam Brumer, Emily Black
+  where: Proceedings of the Symposium on Computer Science and Law (CSLaw), 2026
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2512.17007
+    - name: Paper
+      url: https://doi.org/10.1145/3788646.3789525
