@@ -175,3 +175,6 @@ footer .updated { margin-left: auto; }
 /* name in all caps */
 .hero h1 { text-transform: uppercase; letter-spacing: 0.04em; font-size: 40px; }
 @media (max-width: 640px) { .hero h1 { font-size: 32px; } }
+
+/* Research paragraph runs the full content width (under the photo column too) */
+#research .prose { max-width: none; }

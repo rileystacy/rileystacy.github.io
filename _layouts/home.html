@@ -38,7 +38,7 @@ layout: default
     <div class="venue">{{ pub.venue }}<span>{{ pub.year }}</span></div>
     {% endif %}
     <div>
-      {% if pub.image %}<p class="venue-inline">{{ pub.venue }} · {{ pub.year }}</p>{% endif %}
+      {% if pub.image %}<p class="venue-inline">{{ pub.venue }} {{ pub.year }}</p>{% endif %}
       <p class="pub-title">{{ pub.title }}{% if pub.badge %} <span class="badge">{{ pub.badge }}</span>{% endif %}</p>
       <p class="authors">{{ pub.authors | replace: a.short_name, me }}</p>
       {% if pub.where %}<p class="where">{{ pub.where }}</p>{% endif %}

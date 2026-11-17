@@ -10,13 +10,13 @@ url: https://rileystacy.github.io
 author:
   name: Riley Stacy          # big heading on the home page
   short_name: Riley Stacy    # bolded automatically in publication author lists
-  role: Undergraduate at Barnard College of Columbia University
+  role: Undergraduate, Barnard College of Columbia University
   photo: /assets/img/profile.jpg
   email: rs4142@barnard.edu
   # Leave any of these blank ("") to hide that button.
   cv: ""                     # e.g. /assets/pdf/CV.pdf
   scholar: https://scholar.google.com/citations?user=LuUBfyAAAAAJ
-  github: rileystacy         # GitHub username
+  github: ""                 # GitHub username, e.g. rileystacy
   linkedin: https://www.linkedin.com/in/riley-stacy
   orcid: ""                  # e.g. 0000-0002-1825-0097
 
