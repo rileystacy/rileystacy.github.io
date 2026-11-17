@@ -26,7 +26,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font: 17px/1.65 "Source Sans 3", system-ui, -apple-system, sans-serif;
+  font: 16px/1.65 "IBM Plex Sans", system-ui, -apple-system, sans-serif;
 }
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 3px; }
@@ -40,7 +40,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   border-bottom: 1px solid var(--rule);
 }
 .topbar .wrap { display: flex; align-items: center; justify-content: flex-end; height: 56px; }
-.site-name { font-family: "Source Serif 4", Georgia, serif; font-size: 19px; color: var(--text); }
+.site-name { font-family: "Crimson Pro", Georgia, serif; font-size: 19px; color: var(--text); }
 .site-name:hover { text-decoration: none; }
 .topbar ul { list-style: none; display: flex; align-items: center; gap: 22px; margin: 0; padding: 0; font-size: 15px; }
 .topbar ul a { color: var(--muted); }
@@ -62,7 +62,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 
 /* headings */
-h1, h2 { font-family: "Source Serif 4", Georgia, serif; }
+h1, h2 { font-family: "Crimson Pro", Georgia, serif; }
 h1 { font-weight: 400; font-size: 44px; line-height: 1.1; margin: 0 0 8px; letter-spacing: -0.01em; }
 h2 { font-weight: 600; font-size: 23px; margin: 0 0 20px; }
 .site-name { color: var(--accent); opacity: 0.6; transition: opacity .2s; }
