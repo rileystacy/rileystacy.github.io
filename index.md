@@ -7,4 +7,4 @@ research: |
 
 <!-- Everything below the --- line is your bio (shown next to your photo). -->
 
-I'm a fourth-year undergraduate at Barnard College, finishing my B.A. in Computer Science, Mathematics, and Human Rights. I'm grateful to work with Professor [Emily Black](https://emblack.github.io/) at NYU, where I study **algorithmic fairness and AI governance** from both technical and legal perspectives.
+I'm a fourth-year undergraduate at Barnard College, finishing my B.A. in Computer Science, Mathematics, and Human Rights. I'm grateful to work with Professor [Emily Black](https://emblack.github.io/) at NYU, where I study **algorithmic fairness and AI governance** from both technical and legal perspectives. I'm also a [Computing Fellow](https://barnard.edu/computing-fellows) at Barnard's Vagelos Computational Science Center.
